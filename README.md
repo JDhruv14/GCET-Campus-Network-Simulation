@@ -24,7 +24,7 @@ The simulation includes:
   - The Civil Department is connected to a secondary router, which links back to the main router using a serial cable.
 
 # Screenshots
-![SS](./)
+![SS](./ss.png)
 
 ## Installation
 1. Download and install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer).
